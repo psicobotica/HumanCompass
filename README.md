@@ -13,5 +13,8 @@ Raúl Arrabales - Conscious-Robots.com - Sept. 2017
 	* Digital compass HMC5883L
 * Drivers
 	* CH340G Serial Driver CH341SER from WCH (drivers folder)
+* Test
+	* Hardware test code (test folder)
+
 	
 	
