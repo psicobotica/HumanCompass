@@ -1,0 +1,6 @@
+Magnetic Declination at current location: 
+
+Magnetic declination: -0° 44' --> 12.8 mrad --> 12.8/1000 RAD
+Declination is NEGATIVE (WEST)
+Inclination: 54° 45' 
+Magnetic field strength: 44669.5 nT
