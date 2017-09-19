@@ -12,6 +12,7 @@ Raúl Arrabales - Conscious-Robots.com - Sept. 2017
 	* XCSOURCE TE359 (41 gr.) (ATmega328 - Arduino Nano) Chip: CH340G 
 	* Honeywell digital compass HMC5883L - Triple axis magnetometer 12 bit.
 	* HMC5883L mounted in a GY-273 module for interfacing with Arduino.
+	* Coreless motor (1 gr) DC 1.5-4.5V - 9600 RPM.
 * Drivers
 	* CH340G Serial Driver CH341SER from WCH (drivers folder)
 * Test
